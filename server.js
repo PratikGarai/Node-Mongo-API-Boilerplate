@@ -6,6 +6,7 @@ const { notFound, errorHandler } = require("./middlewares/errorMiddlewares");
 const cors = require("cors");
 
 const healthRoutes = require("./routes/healthRoutes");
+const userRoutes = require("./routes/userRoutes");
 
 dotenv.config();
 const app = express();
@@ -18,6 +19,7 @@ app.get('/', (req, res) => {
 });
 
 app.use('/api/check', healthRoutes);
+app.use('/api/users', userRoutes);
 app.use(notFound);
 app.use(errorHandler);
 
