@@ -9,6 +9,7 @@ This boilerplate contains
 5. Password hashing with salt
 6. Error handlers for auto throwing 404 and 500 as needed
 7. File upload + metadata storage in Mongo
+8. File download using download id
 
 
 ## Tests
