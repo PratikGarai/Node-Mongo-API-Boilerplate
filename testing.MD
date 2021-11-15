@@ -35,3 +35,9 @@ curl --location --request PUT 'http://localhost:5000/api/users/profile' \
     "name" : "Sample User Edited"
 }'
 ```
+
+## File upload 
+```sh
+curl --location --request POST 'http://localhost:5000/api/files/sampleUpload' \
+--form 'myfile=@"<File Location>"'
+```
