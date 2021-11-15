@@ -8,3 +8,8 @@ This boilerplate contains
 4. JWT Authentication
 5. Password hashing with salt
 6. Error handlers for auto throwing 404 and 500 as needed
+
+
+## Tests
+
+Check out testing.MD which has cURL commands to test out the user routes.
