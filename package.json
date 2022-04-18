@@ -1,21 +1,21 @@
 {
   "name": "ui-backend",
   "version": "1.0.0",
-  "description": "Backend for ARATV project's web app",
+  "description": "A NodeJS MongoDB boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PratikGarai/UI-Backend.git"
+    "url": "git+hhttps://github.com/PratikGarai/Node-Mongo-API-Boilerplate"
   },
-  "author": "Pratik Garai, Kaushik Sivashankar",
+  "author": "Pratik Garai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PratikGarai/UI-Backend/issues"
+    "url": "https://github.com/PratikGarai/Node-Mongo-API-Boilerplate"
   },
-  "homepage": "https://github.com/PratikGarai/UI-Backend#readme",
+  "homepage": "https://github.com/PratikGarai/Node-Mongo-API-Boilerplate#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
