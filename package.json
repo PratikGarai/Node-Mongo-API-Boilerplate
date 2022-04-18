@@ -1,5 +1,5 @@
 {
-  "name": "ui-backend",
+  "name": "node-mongo-boilerplate",
   "version": "1.0.0",
   "description": "A NodeJS MongoDB boilerplate",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+hhttps://github.com/PratikGarai/Node-Mongo-API-Boilerplate"
+    "url": "git+https://github.com/PratikGarai/Node-Mongo-API-Boilerplate"
   },
   "author": "Pratik Garai",
   "license": "ISC",
